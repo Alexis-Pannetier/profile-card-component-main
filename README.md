@@ -33,7 +33,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 </div>
 ### Links
 
-- Live Site URL: [Demonstration](https://profile-card-component-main-victor.netlify.app/)
+- Live Site URL: [Demonstration](https://pannetouch-profile.netlify.app/)
 
 ## My process
 

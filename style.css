@@ -172,10 +172,13 @@ p {
 
 /* ATTRIBUTION */
 .attribution {
-  font-size: 11px;
+  font-family: roboto;
+  font-size: 0.75rem;
   text-align: center;
+  color: white;
 }
-.attribution * {
+
+.attribution a {
   color: white;
 }
 
